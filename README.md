@@ -21,7 +21,7 @@ The twist: pressing E cycles through three emotional states, Neutral, Joy, and S
 1. Clone or download the repo
 2. Open **Unity Hub** → **Add project from disk** → select the repo folder
 3. Open the project in Unity 6
-4. In the Project window: `Assets/Scenes/` → double-click **SampleScene**
+4. In the Project window: `Assets/Scenes/` → double-click **LoopBound**
 5. Press **Play**
 
 All dependencies are stored in the project. No additional packages need installing.
